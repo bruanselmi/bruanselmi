@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Olá, eu sou @bruanselmii. 🎓 Estudante de Engenharia de Computação. 🖊️ Aprendendo C, C++ e Java. 🖥️ Tenho muito interesse em IA e jogos. 
 
 <!--
 **bruanselmi/bruanselmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
