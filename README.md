@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou @bruanselmii. 🎓 Estudante de Engenharia de Computação. 
+## 👋 Olá, eu sou Bruna Anselmi. 🎓 Estudante de Engenharia de Computação. 
 
 <!--
 **bruanselmi/bruanselmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
