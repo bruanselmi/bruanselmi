@@ -1,4 +1,7 @@
-Olá, eu sou @bruanselmi. 🎓 Estudante de Engenharia de Computação 3/10. ✍️ Atualmente aprendendo C, C++ e Java. 🖥️ Tenho muito interesse em IA e jogos.
+Olá, eu sou @bruanselmi. 
+🎓 Estudante de Engenharia de Computação. 
+✍️ Tenho conhecimento em C, C++ e Java. 
+🖥️ Tenho muito interesse em IA e jogos.
 
 <!--
 **bruanselmi/bruanselmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
