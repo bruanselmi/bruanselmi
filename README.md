@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Bruna Anselmi. 🎓 Estudante de Engenharia de Computação. 
+Olá, eu sou @bruanselmi. 🎓 Estudante de Engenharia de Computação 3/10. ✍️ Atualmente aprendendo C, C++ e Java. 🖥️ Tenho muito interesse em IA e jogos.
 
 <!--
 **bruanselmi/bruanselmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
